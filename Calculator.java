@@ -1,9 +1,9 @@
 public class Calculator {
     // Calculeaza suma a doua numere
-    private static final int BONUS = 2;   
+    private static final int BONUS = 5;   
     public int aduna(int a, int b) {
         // Temporar, adunam si un bonus hardcodat
-        
+
         return a + b + bonus;
     }
 
